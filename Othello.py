@@ -1,5 +1,7 @@
-# Name:
-# Date:
+# Name: Vihaan Mathur
+# Date: 11/20/21
+#This is a fully playable Othello application using various AI algorithms to build an AI bot for humans to play against
+#Algorithms: MiniMax Algorithm & Alpha/Beta
 
 import random
 
