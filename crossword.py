@@ -1,3 +1,8 @@
+# Name: Vihaan Mathur
+# Date: 2/14/22
+#Creates a crossword puzzle based on a text file of words. 
+
+
 import sys; args = sys.argv[1:]
 import re, random, os
 
