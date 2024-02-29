@@ -1,5 +1,7 @@
 # Name: Vihaan Mathur
 # Date: 10/20/21
+#This program finds the shortest path between cities on a railroad network.
+#Uses Heap Priority Queue, Heuristic Functions, and four search algorithms (A star, Bi-Directional BFS, Tri-Directional, Bi-Directional A Star). 
 import random, pickle, math, time
 from math import pi, acos, sin, cos
 from tkinter import *
