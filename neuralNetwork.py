@@ -1,3 +1,7 @@
+#Name: Vihaan Mathur
+#Date: 4/29/22
+#Implements a forward-feeding neural network framework.  
+
 import sys; args = sys.argv[1:]
 equations = args[0]
 import math, random
