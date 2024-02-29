@@ -1,5 +1,7 @@
 # Name: Vihaan Mathur
 # Date: 12/8/21
+#This is a fully playable Tic Tac Toe application using various AI algorithms to build an AI bot for humans to play against. 
+#Algorithms: MiniMax Algorithm
 
 def successors(state, turn):
    sli = [i for i in range(len(state)) if state[i] == '.']
