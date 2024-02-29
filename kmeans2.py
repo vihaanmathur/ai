@@ -1,3 +1,8 @@
+# Name: Vihaan Mathur
+# Date: 3/9/22
+#Implements k-means algorithm on any image. 
+
+
 ''' Test cases:
 6 https://cf.geekdo-images.com/imagepage/img/5lvEWGGTqWDFmJq_MaZvVD3sPuM=/fit-in/900x600/filters:no_upscale()/pic260745.jpg
 10 cute_dog.jpg
